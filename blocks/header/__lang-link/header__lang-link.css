@@ -11,9 +11,6 @@
     margin-bottom: 6px;
     text-decoration-line: underline;
 }
-.header__lang-link_none-underline {
-    text-decoration-line: none;
-}
 @media screen and (max-width:320px) {
     .header__lang-link {
         font-size: 18px;
