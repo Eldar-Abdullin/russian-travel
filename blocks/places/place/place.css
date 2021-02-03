@@ -6,7 +6,7 @@
     row-gap: 48px;
     grid-template-areas: 
     "title website"
-    "image paragraph"
+    "image paragraph";
 }
 .place:last-child {
     margin-bottom: 0;
@@ -30,6 +30,6 @@
         "title"
         "website"
         "image"
-        "paragraph"
+        "paragraph";
     }
 }
