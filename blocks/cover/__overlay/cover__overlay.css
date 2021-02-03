@@ -1,0 +1,7 @@
+.cover__overlay {
+    display: flex;
+    flex-direction: column;
+    text-decoration-line: none;
+    padding: 245px auto 0 auto;
+    z-index: 12;
+}
