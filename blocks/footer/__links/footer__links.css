@@ -6,10 +6,8 @@
     list-style-type: none;
     color: white;
 }
-@media screen and (max-width:320px) {
+@media screen and (max-width:640px) {
     .footer__links {
         flex-direction: column;
-        min-height: 248px;
-        justify-content: space-between;
     }
 }

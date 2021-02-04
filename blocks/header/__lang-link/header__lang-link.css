@@ -9,7 +9,10 @@
     margin-left: 18px;
     margin-top: 18px;
     margin-bottom: 6px;
-    text-decoration-line: underline;
+    text-decoration-line: none;
+}
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 @media screen and (max-width:320px) {
     .header__lang-link {

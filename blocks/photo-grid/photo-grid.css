@@ -5,7 +5,6 @@
     margin-bottom: 92px;
     display: grid;
     max-width: calc(100% - 96px);
-    overflow: hidden;
     grid-template-columns: repeat(auto-fit, minmax(284px, max-content));
     gap: 16px;
 }
