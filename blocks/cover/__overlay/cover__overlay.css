@@ -1,7 +1,7 @@
 .cover__overlay {
     box-sizing: border-box;
     width: 100%;
-    min-height:  740px;;
+    min-height: 740px;
     display: flex;
     flex-direction: column;
     text-decoration-line: none;
